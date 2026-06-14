@@ -1,6 +1,5 @@
 I am master
-
 login
-
 Payment
+google pay
 
